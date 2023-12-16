@@ -30,7 +30,7 @@ Open the Chrome browser, navigate to the extensions page, and turn on developer 
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?id=1s3Fbc4j1n6eFU7hkqdqczYprwX_OqpJk)
+![App Screenshot](https://drive.google.com/file/d/1s3Fbc4j1n6eFU7hkqdqczYprwX_OqpJk/view?usp=sharing)
 
 
 ## License
