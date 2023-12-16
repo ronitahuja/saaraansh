@@ -1,5 +1,5 @@
 {
-    "name": "YT Summarizer",
+    "name": "Saaraansh",
     "version": "0.0.1",
     "description": "Summarizing in YT videos",
     "permissions": ["storage", "tabs"],
