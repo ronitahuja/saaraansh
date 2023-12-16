@@ -30,7 +30,7 @@ Open the Chrome browser, navigate to the extensions page, and turn on developer 
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/your-username/your-repository/master/path-to-image/image-file.png)
+![App Screenshot](https://github.com/ronitahuja/saaraansh/blob/main/saaraansh.png)
 
 
 
