@@ -1,0 +1,12 @@
+{
+    "name": "YT Summarizer",
+    "version": "0.0.1",
+    "description": "Summarizing in YT videos",
+    "permissions": ["storage", "tabs"],
+    "host_permissions": ["http://127.0.0.1:5000/*","https://www.youtube.com/*"],
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    },
+    "manifest_version": 3
+}
